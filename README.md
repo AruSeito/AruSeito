@@ -12,11 +12,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [滴滴高级前端开发工程面经](https://aruseito.github.io/article/c0cc8344/)
 - [《自顶向下学 React 源码》学习笔记](https://aruseito.github.io/article/3f8812bd/)
 - [在React中因浅拷贝引发的BUG](https://aruseito.github.io/article/db2c0d0e/)
 - [(随手记录)-GIT解决合并错分支](https://aruseito.github.io/article/afdedcbf/)
 - [(随手记录)-一些关于BOM的零散知识](https://aruseito.github.io/article/668e3aae/)
-- [手写一个Promise/A+](https://aruseito.github.io/article/ba852590/)
 <!-- BLOG-POST-LIST:END -->
 
 
