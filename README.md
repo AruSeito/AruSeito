@@ -13,11 +13,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [monorepo](https://aruseito.github.io/article/7b6bc5a/)
 - [协同编辑冲突处理算法之OT算法](https://aruseito.github.io/article/23c3b7d4/)
 - [webpack5之Module Federation](https://aruseito.github.io/article/b60a0549/)
 - [微前端](https://aruseito.github.io/article/3b97e6/)
 - [React 之 同构](https://aruseito.github.io/article/529a2369/)
-- [实现简易的可视化拖动生成页面](https://aruseito.github.io/article/71eb139c/)
 <!-- BLOG-POST-LIST:END -->
 
 
