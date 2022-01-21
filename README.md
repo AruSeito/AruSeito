@@ -14,10 +14,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Router简易实现](https://aruseito.github.io/article/bce8a1b7/)
-- [状态管理](https://aruseito.github.io/article/8dbe3817/)
 - [JS小技巧](https://aruseito.github.io/article/4f47bf3c/)
 - [monorepo](https://aruseito.github.io/article/7b6bc5a/)
 - [协同编辑冲突处理算法之OT算法](https://aruseito.github.io/article/23c3b7d4/)
+- [webpack5之Module Federation](https://aruseito.github.io/article/b60a0549/)
 <!-- BLOG-POST-LIST:END -->
 
 
