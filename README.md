@@ -3,24 +3,14 @@
 
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
-前端工程师 🤖｜2年经验 
+- 🤖 Front-end Developer.
+- ❤️ Developer at [illa-family](https://illa.cloud/).
+- 👨🏻‍💻 Working on [illa-builder](https://github.com/illa-family/illa-builder) currently.
 
-主要技术栈：React全家桶
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AruSeito&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [优化项目构建时间](https://aruseito.github.io/article/d3ffe87/)
-- [数据埋点、监控方案](https://aruseito.github.io/article/c3f02c48/)
-- [自定义nextJs服务端](https://aruseito.github.io/article/d693fb46/)
-- [Router简易实现](https://aruseito.github.io/article/bce8a1b7/)
-- [monorepo](https://aruseito.github.io/article/7b6bc5a/)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-
