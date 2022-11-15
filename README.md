@@ -4,7 +4,7 @@
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
 - 🤖 Front-end Developer.
-- ❤️ Developer at [illa-family](https://illa.cloud/).
+- ❤️ Developer at [illacloud](https://illa.cloud/).
 - 👨🏻‍💻 Working on [illa-builder](https://github.com/illa-family/illa-builder) currently.
 
 **Languages and Tools:**  
