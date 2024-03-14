@@ -4,8 +4,8 @@
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
 - 🤖 Front-end Developer.
-- ❤️ Developer at [illacloud](https://illa.cloud/).
-- 👨🏻‍💻 Working on [illa-builder](https://github.com/illacloud/illa-builder) , [illa-flow](https://github.com/illacloud/illa-flow-fe) currently.
+- ❤️ Developer at tipis.ai .
+- 👨🏻‍💻 Working on [tipis-fe](https://github.com/tipisai/tipis-fe)  currently.
 
 **Languages and Tools:**  
 
