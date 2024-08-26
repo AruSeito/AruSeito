@@ -4,8 +4,7 @@
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
 - 🤖 Front-end Developer.
-- ❤️ Developer at tipis.ai .
-- 👨🏻‍💻 Working on [tipis-fe](https://github.com/tipisai/tipis-fe)  currently.
+- ❤️ Developer at [PackPack.AI](https://packpack.ai/) .
 
 **Languages and Tools:**  
 
