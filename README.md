@@ -4,7 +4,6 @@
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
 - 🤖 Front-end Developer.
-- ❤️ Developer at [PackPack.AI](https://packpack.ai/) .
 
 **Languages and Tools:**  
 
