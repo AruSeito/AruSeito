@@ -4,7 +4,7 @@
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
 - 🤖 Front-end Developer.
-- ❤️ Developer at [MiroMind.AI](https://github.com/MiroMind) .
+- ❤️ Developer at [MiroMind.AI](https://github.com/MiroMindAI) .
 
 **Languages and Tools:**  
 
