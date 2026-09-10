@@ -1,9 +1,9 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=AruSeito&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="[https://github-stats-extended.vercel.app/api?username=AruSeito&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
-- 🤖 Front-end Developer.
+- 🤖 Full Stack Engineer.
 - ❤️ Developer at [ApodexAI](https://github.com/ApodexAI) .
 
 **Languages and Tools:**  
@@ -14,4 +14,4 @@
 
 **My Github Profile Trophy:**
 
-<img src="https://github-profile-trophy.vercel.app/?username=aruseito&title=Commits,MultiLanguage,PullRequest,Followers" alt="logo" height="100" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=aruseito&title=Commits,MultiLanguage,PullRequest,Followers" alt="logo" height="100" align="center" style="margin: auto; margin-bottom: 20px;" />
