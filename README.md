@@ -1,5 +1,5 @@
 
-<img src="[https://github-stats-extended.vercel.app/api?username=AruSeito&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-stats-extended.vercel.app/api?username=AruSeito&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 # 👋 Hi, I'm [AruSeito](https://aruseito.github.io/)
 
